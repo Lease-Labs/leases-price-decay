@@ -1,9 +1,10 @@
-# Price decay function of resaleable leases
-This is a research project to determine price decay or valuation on leases as the lease gets closer to the check in date
+# STR Leases Pricing, API, Dashboard and Services
 
+This project will provide **unique** open data for the Resale prices of Leases and store this data on Filecoin's IPFS.
 
-There is no data out there tracking 'price decay' in rentals/leases as the date of check in approaches. 
+We will utilize TripsTrade's blockchain network to source this data and provide:
 
-For example say that you have a short term rental with availability starting Dec 1st, how do prices for those differ in January vs June vs November? TripsTrade can provide that data where no one else can and we'd like to build a dashboard for it so our users can check it out as well.
+* API for institutional users
+* Dashboards for simple users
 
-All data is on chain and we can use IPFS to track and store real time datapoints as well as track the Booking NFTs generated from TripsTrade
+We intend to create a new class of data that will benefit society as a whole, renters, travelers, property owners.
